@@ -1,0 +1,2 @@
+MAXSIZE 1
+LAPSE aaaaabbbcccDDDDBBcCCACCbbdDD
